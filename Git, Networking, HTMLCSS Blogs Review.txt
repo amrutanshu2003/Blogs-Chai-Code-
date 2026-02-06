@@ -1,9 +1,10 @@
-why-version-control-exists-the-pendrive-problem
+Why Version Control Exists: The Pendrive Problem
 https://amrutanshupanda.hashnode.dev/why-version-control-exists-the-pendrive-problem
  
 -----------------------------------------------------
-
+Inside Git: How It Works and the Role of the .git Folder
 https://amrutanshupanda.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder
 
 ------------------------------------------------------
-
+Git for Beginners: Basics and Essential Commands
+https://amrutanshupanda.hashnode.dev/git-for-beginners-basics-and-essential-commands
